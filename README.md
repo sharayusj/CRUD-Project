@@ -11,3 +11,4 @@ In this project, I have used Express framework, MongoDB database and Node JS ser
 
 ### Update Records
 
+![Screenshot 2](https://github.com/skprscoe/CRUD-Project/assets/134959794/1cc72633-21a4-4807-8998-4f0f4320e756)
