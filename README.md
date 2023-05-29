@@ -5,6 +5,9 @@ In this project, I have used Express framework, MongoDB database and Node JS ser
 
 ### Insert and Read Records
 
+![Screenshot 1](https://github.com/skprscoe/CRUD-Project/assets/134959794/5298b97b-55e3-46b8-a4dc-8fa431aa0a89)
+
+
 
 ### Update Records
 
